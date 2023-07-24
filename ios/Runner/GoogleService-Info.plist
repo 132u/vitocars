@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>751128874247-kvrg83chubbif3h7pc338qigmcjp71ng.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.751128874247-kvrg83chubbif3h7pc338qigmcjp71ng</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>751128874247-3ato5sac5vv5vlimt87j707aeh74uqm7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3xXie240GWzsElMNaKQZ6UOM7vCiHi6Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>751128874247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vitocars</string>
+	<key>PROJECT_ID</key>
+	<string>vitocars-4212c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vitocars-4212c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:751128874247:ios:da0417e44a8ce9fdef49a2</string>
+</dict>
+</plist>

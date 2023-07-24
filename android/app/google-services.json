@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "751128874247",
+    "project_id": "vitocars-4212c",
+    "storage_bucket": "vitocars-4212c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751128874247:android:fafd43237dfe3d22ef49a2",
+        "android_client_info": {
+          "package_name": "com.dragon.TablaDeAnuciousKotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751128874247-3ato5sac5vv5vlimt87j707aeh74uqm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dragon.TablaDeAnuciousKotlin",
+            "certificate_hash": "da416f96e0693c0ba2e17519440023706d77bd54"
+          }
+        },
+        {
+          "client_id": "751128874247-7gol3f7o9ijdooe0kii2f629vuj7c90l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWn0ma-SsI7OgFVvKQ7yRgDKdOQHX_PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751128874247-7gol3f7o9ijdooe0kii2f629vuj7c90l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751128874247-kvrg83chubbif3h7pc338qigmcjp71ng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vitocars"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751128874247:android:aa4e84962b6dcdaeef49a2",
+        "android_client_info": {
+          "package_name": "com.example.vitocars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751128874247-7gol3f7o9ijdooe0kii2f629vuj7c90l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxWn0ma-SsI7OgFVvKQ7yRgDKdOQHX_PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751128874247-7gol3f7o9ijdooe0kii2f629vuj7c90l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751128874247-kvrg83chubbif3h7pc338qigmcjp71ng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vitocars"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
